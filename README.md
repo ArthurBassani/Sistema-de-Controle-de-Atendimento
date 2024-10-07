@@ -1,16 +1,8 @@
-# sistema_de_atendimento
+###Sistema de Controle de Atendimento
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Descrição: Um sistema para gerenciar filas de atendimento em diferentes setores, como hospitais, bancos ou atendimento ao cliente.
+- Funcionalidades:
+  - Cadastro de serviços e guichês.
+  - Gerenciamento de filas e senhas de atendimento.
+  - Relatórios de tempo médio de espera e atendimentos realizados.
+- Conceitos: Abstração (Atendimento, Cliente), polimorfismo (diferentes tipos de atendimento), UML, interface gráfica.
